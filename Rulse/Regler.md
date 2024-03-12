@@ -21,7 +21,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
 
    5. Ustabile karakterer
      
-      sk
+      Vi vil ikke se på kararkter som er psykisk ustabile
 
 ## Roleplay Regler
 1. dette er alle Roleplay reglerne som gælder for alle spiller
@@ -97,4 +97,27 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
 
           Alle bandemedlemmer, som deltager i en bandekrig, skal sidde i sit krigsrum på bande discorden. I dette rum, kræver vi alle er muted, så der ikke bliver snakket under bandekrigen. Er bandemedlemmerne ikke i sit krigsrum eller ikke er muted, vil man første gang blive påtalt. Sker det dog igen efter påtalelsen, vil man tabe krigen.
 
-## 
+## Politi regeler
+5. Alle disse regler gælder for politiet
+   1. Man må ikke bruge strømpistol/taser dog kan de have dem på sige for at bruge den som alkometer.
+   
+   2. Der skal mindst side 2 Romeo I en bil for de må køre på patrulje.
+   
+   3. Man må ikke snakke i munden på hinanden i radioen.
+   
+   4. Politi kadeter må ikke køre alene men må gerne køre med en anden kadet og højre rang i politiet.
+   
+   5. Politi Elever på ikke køre da de stadig er på skolebæken for at for oplæring i hvordan det skal gøre der arbejde.
+   
+   6. sproget :
+
+      så sproget skal holdes: hvordan man snakker til hindanden og til borgerne fordi at nu skal der holdes styr på dette fordi at vi gider ikke at blive fyret alle samme.
+
+   7. håntere en borger:
+
+      hvis der er en borger der har brug for hjælp så hjælper vi dem udafnset hvad fordi at hvis de faktisk har brug for hjælp så kan vi kun hjælpe dem hvis i fatisk tager kontakt til ham
+
+   8. Kontakt til Beredskab og Sund
+   
+      Kontakt til Beredskab skal for gå gennem Lima eller Lima tango hvis disse ikke er på skal det for gå gennem højste rangsjert på scenne og med en pæn tone.
+
