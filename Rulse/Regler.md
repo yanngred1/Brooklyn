@@ -24,12 +24,25 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
       Vi vil ikke se på kararkter som er psykisk ustabile
 
 ## Roleplay Regler
-1. dette er alle Roleplay reglerne som gælder for alle spiller
+2. dette er alle Roleplay reglerne som gælder for alle spiller
    1. Våben
           
       Alle våben skal købes på discorden så du har dem i dit inventory på discorden du køber ved at bruge /item store
 
-   2. 
+   2. låste døre
+       
+       Døre der normal vil være låst med et nøgle kort kan man ikke bare vade ind af som hvis man ikke er på det hold som har nøgle der til
+     
+   3. Brandalarmer
+   
+       Der skal være en godt grundlag for at tække brandalarmer
+   
+   4. Planlægning:
+   
+      Et tyveri eller røveri skal planlægges inden det udføres. Det skal planlægges i så stort omfang, det går uden problemer. Der vil dog altid opstå problemer, da der kan forekomme fejl med kommunikationen osv. Men ellers skal det planlægges professionelt.
+   
+   5. 
+
 
 
 ## Bande regler
@@ -45,7 +58,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
    3. Maksimum antal medlemmer
 
       En bande må maksimum bestå af 8 medlemmer i en gruppering.
-      Derudover skal banden altid være klar på at give en liste over pusher og medlemmer med mindre end et minuts varsel fra bande ansvarlig i så fald at man er online.
+      Derudover skal banden altid være klar på at give en liste over pusher og medlemmer med mindre end et minuts varsel fra bande ansvarlig i så fald at man er ingame.
 
    4. Bandestrikes
       
