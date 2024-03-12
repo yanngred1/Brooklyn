@@ -1,5 +1,5 @@
 # Regler
-denne side indeholder alle regler på Brooklyn ERLC RP server
+Denne side indeholder alle regler på Brooklyn ERLC RP server
 ## Generelle regler
 1. Alle regler her under gælder henover hele discord serveren
    1. Mobning
@@ -24,4 +24,51 @@ denne side indeholder alle regler på Brooklyn ERLC RP server
       sk
 
 ## Roleplay Regler
-2. 
+1. dette er alle Roleplay reglerne som gælder for alle spiller
+   1. Våben
+          
+      Alle våben skal købes på discorden så du har dem i dit inventory på discorden du køber ved at bruge /item store
+
+   2. 
+
+
+## Bande regler
+3. Alle dise regler gælder for groupering op til og med karteler 
+   1. Underretning
+
+      Alle bandeledere skal selv sørge for at nye bandemedlemmer er underettet om bande reglerne.
+
+   2. Ændring af banderegler
+
+      Der kan til hver en tid blive ændret på bandereglerne. Derfor skal du være opdateret. Læs dem gerne hver 2. - 3. dag.
+
+   3. Maksimum antal medlemmer
+
+      En bande må maksimum bestå af 8 medlemmer i en gruppering.
+      Derudover skal banden altid være klar på at give en liste over pusher og medlemmer med mindre end et minuts varsel fra bande ansvarlig i så fald at man er online.
+
+   4. Bandestrikes
+      
+      Hver bande har ikke mere end 3 chancer. Dvs. modtager du en bande-strike fra en bandeansvarlig, har din bande kun 2 tilbage.
+
+   5. Opstart af bande
+
+      For at opstarte en bande, skal du minimum være 4 medlemmer. 2 eller 3 medlemmer accepteres ikke.
+
+   6. Lukning af bande
+   
+      En bande kan til hver en tid blive lukket af en bande ansvarlig. Dog vil din bande også automatisk blive lukket, hvis i er inaktive, eller har under 4 aktive medlemmer (Her gælder pushers osv. ikke)
+
+   7. Realitet og oprigtig
+
+      Man skal være real og rigtig med sin karakter. Hvis du er en MC-gruppering, skal du ikke køre rundt i superbiler. Du skal forholde dig til den klasse bil, som passer til din gruppering, kartel, mafia eller gadebande.
+
+   8. Oprangering af bander
+
+      Man kan godt gå fra at være gadebandemedlem til at være mafiamedlem. Men man kan ikke tilslutte sig en gadebande, hvis du tidligere har været i en mafia. Dog kan et rockermedlem godt gå til at være gadebandemedlem, og omvendt.
+
+   9. Hierarki af bander
+
+      Gadebande -> Motorcykelgruppering -> Mafia -> Cartel
+
+## BandeKrigs Regler
