@@ -17,7 +17,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
    4. Karakter
 
       **Skal** være skreven ind med ud fra skablonen i <#1216139636506886265>
-      Karakter navne som, Pablo Escobar, El Chapo, Adolf Hitler el. lign. høre ikke til her på serveren 
+      Karakter navne som, Pablo Escobar, El Chapo, Adolf Hitler, Rasmus paludan, andre støden navn eller lign. høre ikke til her på serveren 
 
    5. Ustabile karakterer
      
@@ -71,4 +71,30 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
 
       Gadebande -> Motorcykelgruppering -> Mafia -> Cartel
 
-## BandeKrigs Regler
+## Bandekrigs Regler
+4.   Alle disse regler gælder i en bande krig
+     1.   Outfit under krig
+
+          Alle i banden, som deltager i en bandekrig, skal have samme outfit på. Har i en kvinde, må i finde noget til hende, som ligner mændenes outfit så godt som muligt.
+
+     2.   Alliancer
+          
+          Begge parter må gerne have alliancer, såfremt grundlaget giver mening.
+
+     3.   Liv i bandekrig
+          
+          Hvert medlem har 1 liv i en bandekrig. Banden har i alt 3 liv/strikes. Taber man en bandekrig, mister banden derfor 1 liv/får en strike.
+
+     4.  Bekræftning af drab
+
+         For at bekræfte et drab i en bandekrig, skal der være videooptagelse på pågældne scenarie, som endte modpartens liv. 
+
+     5.   Alle skal kunne optage
+   
+          Det er et krav alle i banden, skal kunne optage krigen. Det gælder både i form af Kills, men også om de andre bruger game mechanics til at vinde
+
+     6.   Tilstedeværelse
+
+          Alle bandemedlemmer, som deltager i en bandekrig, skal sidde i sit krigsrum på bande discorden. I dette rum, kræver vi alle er muted, så der ikke bliver snakket under bandekrigen. Er bandemedlemmerne ikke i sit krigsrum eller ikke er muted, vil man første gang blive påtalt. Sker det dog igen efter påtalelsen, vil man tabe krigen.
+
+## 
