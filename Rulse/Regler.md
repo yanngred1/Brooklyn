@@ -43,10 +43,14 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
    
    5. Økonomi
 
-      Serveren har en økonomi det vil sige vi vil ikke have jer til at collect jeres løn uden for SSU det vil sige hvis der har være en SSU den dag og i har være på må i collect mens i er på og ikke når i ikke er på det samme gælder for work og rob det kraver at i er på og for rob kraver det at i er ved dem når i bruger den.
+      Serveren har en økonomi det vil sige vi vil ikke have jer til at collect jeres løn uden for SSU det vil sige hvis der har været en SSU den dag og i har være på må i collect mens i er på og ikke når i ikke er på det samme gælder for work og rob det kraver at i er på og for rob kraver det at i er ved dem når i bruger den.
 
-   6. 
-
+   6. Våben man må ejere med våben licens
+   
+      Beretta M9, Colt M1911 og M14 vis du har købt disse du den våben licens er de ulovlige
+      du må ikke ejer Skopoin, TEC-9 eller desert eagel da disse er bande våben
+   
+   7. 
 
 
 ## Bande regler
