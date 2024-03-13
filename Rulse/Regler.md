@@ -41,7 +41,11 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
    
       Et tyveri eller røveri skal planlægges inden det udføres. Det skal planlægges i så stort omfang, det går uden problemer. Der vil dog altid opstå problemer, da der kan forekomme fejl med kommunikationen osv. Men ellers skal det planlægges professionelt.
    
-   5. 
+   5. Økonomi
+
+      Serveren har en økonomi det vil sige vi vil ikke have jer til at collect jeres løn uden for SSU det vil sige hvis der har være en SSU den dag og i har være på må i collect mens i er på og ikke når i ikke er på det samme gælder for work og rob det kraver at i er på og for rob kraver det at i er ved dem når i bruger den.
+
+   6. 
 
 
 
