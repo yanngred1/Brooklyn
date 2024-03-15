@@ -37,24 +37,45 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
    
        Der skal være en godt grundlag for at tække brandalarmer
    
-   4. Planlægning:
-   
-      Et tyveri eller røveri skal planlægges inden det udføres. Det skal planlægges i så stort omfang, det går uden problemer. Der vil dog altid opstå problemer, da der kan forekomme fejl med kommunikationen osv. Men ellers skal det planlægges professionelt.
-   
-   5. Økonomi
+   4. Økonomi
 
       Serveren har en økonomi det vil sige vi vil ikke have jer til at collect jeres løn uden for SSU det vil sige hvis der har været en SSU den dag og i har være på må i collect mens i er på og ikke når i ikke er på det samme gælder for work og rob det kraver at i er på og for rob kraver det at i er ved dem når i bruger den.
 
-   6. Våben man må ejere med våben licens
+   5. Våben man må ejere med våben licens
    
       Beretta M9, Colt M1911 og M14 vis du har købt disse du den våben licens er de ulovlige
       du må ikke ejer Skopoin, TEC-9 eller desert eagel da disse er bande våben
    
-   7. 
+   6. 
 
+## 𝐑ø𝐯𝐞𝐫𝐢 & 𝐓𝐲𝐯𝐞𝐫𝐢 𝐫𝐞𝐠𝐥𝐞𝐫
+3. Alle regeler er under har noget af gøre med Røveriger eller tyveriger
+   1. Antal butikstyve/røvere
+      
+      Der må maksimum være 3 kriminelle til et butikstyveri, og så skal der minimum være 2 betjente aktive.
+
+   2. Antal bankrøvere
+   
+      Der må maksimum være 5 kriminelle til et bankrøveri. Her skal der sågar være mindst 4 betjente aktive, før du må starte et bankrøveri.
+
+   3. Cooldown af tyveri & røveri
+   
+      Der skal gå mindst 2 time (En ingame dag) imellem hvert tyveri eller røveri. Nedtælling begynder fra alle er røget i fængslet, eller undsluppet.
+
+   4. Gidseltagning til tyverier/røverier
+   
+      Du må have så mange gidsler du vil, så længe det bliver holdt på et realistisk niveau. Dvs. du ikke kan have 3 gidsler, på en server med 20 spillere.
+   
+   5. Forhandlingskrav
+   
+      Sørg for at have styr på jeres krav. De skal være gennemtænkte og rimelige overfor alle. Det gælder både for betjentenes side, og fra de kriminelles side.
+   
+   6. Planlægning:
+   
+      Et tyveri eller røveri skal planlægges inden det udføres. Det skal planlægges i så stort omfang, det går uden problemer. Der vil dog altid opstå problemer, da der kan forekomme fejl med kommunikationen osv. Men ellers skal det planlægges professionelt.
 
 ## Bande regler
-3. Alle dise regler gælder for groupering op til og med karteler 
+1. Alle dise regler gælder for groupering op til og med karteler 
    1. Underretning
 
       Alle bandeledere skal selv sørge for at nye bandemedlemmer er underettet om bande reglerne.
@@ -93,7 +114,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
       Gadebande -> Motorcykelgruppering -> Mafia -> Cartel
 
 ## Bandekrigs Regler
-4.   Alle disse regler gælder i en bande krig
+5.   Alle disse regler gælder i en bande krig
      1.   Outfit under krig
 
           Alle i banden, som deltager i en bandekrig, skal have samme outfit på. Har i en kvinde, må i finde noget til hende, som ligner mændenes outfit så godt som muligt.
@@ -119,7 +140,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
           Alle bandemedlemmer, som deltager i en bandekrig, skal sidde i sit krigsrum på bande discorden. I dette rum, kræver vi alle er muted, så der ikke bliver snakket under bandekrigen. Er bandemedlemmerne ikke i sit krigsrum eller ikke er muted, vil man første gang blive påtalt. Sker det dog igen efter påtalelsen, vil man tabe krigen.
 
 ## Politi regeler
-5. Alle disse regler gælder for politiet
+6. Alle disse regler gælder for politiet
    1. Man må ikke bruge strømpistol/taser dog kan de have dem på sige for at bruge den som alkometer.
    
    2. Der skal mindst side 2 Romeo I en bil for de må køre på patrulje.
