@@ -16,8 +16,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
 
    4. Karakter
 
-      **Skal** være skreven ind med ud fra skablonen i <#1216139636506886265>
-      Karakter navne som, Pablo Escobar, El Chapo, Adolf Hitler, Rasmus paludan, andre støden navn eller lign. høre ikke til her på serveren 
+      **Skal** være skreven ind med ud fra skablonen i <#1216139636506886265> Karakter navne som, Pablo Escobar, El Chapo, Adolf Hitler, Rasmus paludan, andre støden navn eller lign. høre ikke til her på serveren karakteren skal som minimum være 18 år gammel maks på 85 år
 
    5. Ustabile karakterer
      
@@ -46,31 +45,38 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
       Beretta M9, Colt M1911 og M14 vis du har købt disse du den våben licens er de ulovlige
       du må ikke ejer Skopoin, TEC-9 eller desert eagel da disse er bande våben
    
-   6. Metagaming
+   6. Efterforskning
+
+      Hvis du laver et røverig så skal du svare i <#1218576517135601747>
+   
+
+   7.    
+
+   8. Metagaming
 
       Metagaming må under ingen omstændigheder benyttes. Dvs. der ikke må benyttes nogle former for ekstern kommunikation til at udføre RP in-game. Dette indebærer bl.a. programmer som Discord, twitch, teamspeak m.m.
 
-   7. New Life Rule (NLR)
+   9. New Life Rule (NLR)
    
       New Life Rule (NLR), skal overholdes uanset hvilken forbindelse døden af din karakter er har fundet sted. Dvs. sker der din karakter noget, som medføre bevidstløshed eller sågar drlb, husker din karakter ingenting. Du kender hverken til årsagen eller andet, som har ledt op til din bevidstløshed.
    
-   8. FearRP
+   10. FearRP
    
       FearRP skal altid overholdes. Dvs. din karakter altid sætter sit liv foran andres, da dette er første prioritet for din karakter. Derfor vil du så vidt som muligt, altid forsøge at overleve fremfor at dø. dette kan eksempelvis være, du ikke trækker et våben, hvis du allerede bliver truet af en anden. Reglen strækker sig over et bredt aspekt og gælder derfor ikke kun dette eksempel.
    
-   9. Powergaming
+   11. Powergaming
    
       Powergaming må under ingen omstændigheder finde sted. Du skal altid udføre så en så realistisk adfærd som muligt. Dermed sagt, skal du ikke lukke ned for RP scenarier, samt fremtidige RP scenarier, uden grund for dette.
    
-   10. RDM
+   12. RDM
    
        Random Death Match må ikke forekomme. Dvs. du ikke må dræbe en anden karakter uden RP grundlag. Dette gælder også NPC'er
 
-   11. VDM
+   13. VDM
    
        Vehicle Death Match må sågar heller ikke forekomme. Du må ikke bruge dit køretøj til at forvolde skade på en anden karakter. Dette gælder både Motorcykler, Fly, Biler eller Fartøjer (Både osv.)
    
-   12. Fail RP
+   14. Fail RP
    
        Fail RP vil sige når i gør noget som ikke vil kunne ladsige gøre i virkligheden eller at bryde reglerne på en måde som ikker er tænkt over i reglerne som det står nu
    
