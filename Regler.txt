@@ -1,6 +1,6 @@
-# Regler
+Regler
 Denne side indeholder alle regler på Brooklyn ERLC RP server
-## Generelle regler
+Generelle regler
 1. Alle regler her under gælder henover hele discord serveren
    1. Mobning
 
@@ -22,7 +22,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
      
       Vi vil ikke se på kararkter som er psykisk ustabile
 
-## Roleplay Regler
+Roleplay Regler
 2. dette er alle Roleplay reglerne som gælder for alle spiller
    1. Våben
           
@@ -78,7 +78,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
        Fail RP vil sige når i gør noget som ikke vil kunne ladsige gøre i virkligheden eller at bryde reglerne på en måde som ikker er tænkt over i reglerne som det står nu
    
 
-## 𝐑ø𝐯𝐞𝐫𝐢 & 𝐓𝐲𝐯𝐞𝐫𝐢 𝐫𝐞𝐠𝐥𝐞𝐫
+𝐑ø𝐯𝐞𝐫𝐢 & 𝐓𝐲𝐯𝐞𝐫𝐢 𝐫𝐞𝐠𝐥𝐞𝐫
 3. Alle regeler er under har noget af gøre med Røveriger eller tyveriger
    1. Antal butikstyve/røvere
       
@@ -104,8 +104,8 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
    
       Et tyveri eller røveri skal planlægges inden det udføres. Det skal planlægges i så stort omfang, det går uden problemer. Der vil dog altid opstå problemer, da der kan forekomme fejl med kommunikationen osv. Men ellers skal det planlægges professionelt.
 
-## Bande regler
-4. Alle dise regler gælder for groupering op til og med karteler 
+Bande regler
+1. Alle dise regler gælder for groupering op til og med karteler 
    1. Underretning
 
       Alle bandeledere skal selv sørge for at nye bandemedlemmer er underettet om bande reglerne.
@@ -143,7 +143,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
 
       Gadebande -> Motorcykelgruppering -> Mafia -> Cartel
 
-## Bandekrigs Regler
+Bandekrigs Regler
 5.   Alle disse regler gælder i en bande krig
      1.   Outfit under krig
 
@@ -169,7 +169,7 @@ Denne side indeholder alle regler på Brooklyn ERLC RP server
 
           Alle bandemedlemmer, som deltager i en bandekrig, skal sidde i sit krigsrum på bande discorden. I dette rum, kræver vi alle er muted, så der ikke bliver snakket under bandekrigen. Er bandemedlemmerne ikke i sit krigsrum eller ikke er muted, vil man første gang blive påtalt. Sker det dog igen efter påtalelsen, vil man tabe krigen.
 
-## Politi regeler
+Politi regeler
 6. Alle disse regler gælder for politiet
    1. Man må ikke bruge strømpistol/taser dog kan de have dem på sige for at bruge den som alkometer.
    
